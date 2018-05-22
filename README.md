@@ -1,2 +1,2 @@
-# NCV
-acm2018
+# BUAA ACM 2018
+MountVoom HugeGun Niupple
